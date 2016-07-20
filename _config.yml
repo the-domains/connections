@@ -1,0 +1,14 @@
+layout_spectrum: 0.34773103753104806
+typography_spectrum: 0.4984062034636736
+color:
+  brandStrength: 0.20849072537384927
+  lightness: 0.04658212070353329
+  saturation: 0.7112929334398359
+  rhythmicContrast: 0.5436054856982082
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+name: Connections
